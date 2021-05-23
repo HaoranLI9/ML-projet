@@ -16,4 +16,4 @@ Le jeu de données des chiffres manuscrits est dans le fichier "data"
 Les notebooks pour faire un rapport sont dans le fichier "notebook_rapport"
 On montre les résultats dans le rapport, donc c'est juste pour voir un peu.
 
-.pdf est le rapport qui montre toutes les choses qu'on veut. 
+Rapport.pdf est le rapport qui montre toutes les choses qu'on veut. 
